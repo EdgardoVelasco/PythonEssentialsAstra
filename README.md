@@ -13,6 +13,11 @@ N3t3c
 Asesor:
 Alejandra Gálvez — alejandra.galvez@netec.com.mx
 Administrador:
-Jesús Labra — jesus.labra@netec.com.mx
+Jesús Labra — jesus.labra@netec.com.
+
+**Libreta de estudio Notebooklm**
+https://notebooklm.google.com/notebook/fec72c11-d026-42df-a3a0-ed833b2b557f
+
+
 
 
